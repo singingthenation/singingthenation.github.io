@@ -64,7 +64,7 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  lift: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'lift_item' # the layout for the pages to use
     metadata:
@@ -84,7 +84,7 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      lift:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - title
