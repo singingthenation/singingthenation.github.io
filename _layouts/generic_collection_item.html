@@ -28,6 +28,19 @@ layout: default
 {% endif %}
 
 {% comment %}
+  The block below adds a video viewer
+{% endcomment %}
+  <div class='item-view'>
+    <span class='pagination-link' id='prevlink'></span>
+    <iframe width="100%" height="400" src="https://{{page.embed_url}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <span class='pagination-link' id='nextlink'></span>
+  </div>
+  {% unless layout.pagination == false %}{% include item_pagination.html %}{% endunless %}
+
+  <br>
+
+{% comment %}
   The block below controls the item metadata table
 {% endcomment %}
 
