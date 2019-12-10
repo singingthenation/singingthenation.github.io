@@ -69,8 +69,8 @@ collections:
     layout: 'lift_item' # the layout for the pages to use
     metadata:
       source: 'lift.csv' # path to the metadata file within `_data`
-#    images:
-#      source: 'raw_images/lift'  path to the directory of images within `_data`
+    images:
+      source: 'raw_images/lift' #  path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
