@@ -8,7 +8,7 @@ This site's sample collection comprises a set of objects, each of which is below
 
 # Browse the Collection
 
-{% include collection_gallery.html facet_by='performer' collection='lift' %}
+{% include collection_gallery.html facet_by='' collection='lift' %}
 
 <ul>
     {% for item in site.lift %}
