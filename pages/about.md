@@ -189,8 +189,7 @@ Families of Color*.
 Many thanks to the following for their encouragement and support both
 material and ephemeral:
 
-**Alex Gil**, Digital Scholarship Coordinator for the Humanities and History
-Division, Columbia University Library
+**Alex Gil**, Digital Scholarship Librarian, Columbia University Library
 
 **Alicia Ellis**, Assistant Professor of German, Colby College
 
