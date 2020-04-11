@@ -1,48 +1,227 @@
 ---
 layout: page
-title: What is Wax?
+title: About
 permalink: /about/
 ---
 
-**Wax helps you create digital exhibits.**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
+> "You should write it down because if you don't write it down then they
+will come along and tell the future that we did not exist."
 
-**Wax is an extensible workflow based on minimal computing principles.**  
-Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
+<p style="text-align: right">Suzan-Lori Parks, <em>The Death of the Last Black Man in the Whole
+Entire World</em></p>
 
-**The exhibition sites created by Wax are static.**  
-This means they consist of flat HTML, CSS, and JavaScript files that don't need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain.
+<br>
+<br>
 
-**The skills needed to create Wax sites are agnostic.**  
-This means they are largely transferable for use in other digital projects. 'Learning Wax' does not mean learning how to use a platform. It involves learning the fundamentals of web development, data management, and [plain text editing](https://zapier.com/blog/beginner-ultimate-guide-markdown/) while leveraging a few great open source libraries and frameworks along the way.
+Singing the Nation Into Being is an experimental digital humanities
+project that aims to stir discussion about the meaning and resonance of
+James Weldon Johnson and J. Rosamond Johnson's "Lift Every Voice and
+Sing" (1900). Also known as the "Negro National Anthem," "The Negro
+National Hymn," and "The Black National Anthem," "Lift Every Voice and
+Sing" was initially conceived as a poem, meant to commemorate Abraham
+Lincoln's birthday. Johnson and his brother J. Rosamond later
+transformed the text to song to honor Booker T. Washington's visit to
+The Stanton School in Jacksonville, Fla., where Johnson was the
+principal. Since Johnson's initial conception, a performance by a chorus
+of 500 schoolchildren, until the most recent iterations---such as
+Beyoncé's performance at Coachella---the song has remained central, in
+many ways, to Black American life.
 
-**Wax keeps the collection presentation separate from the collection data.**  
-The Wax workflow starts with making standardized image files and metadata records and builds around them, handling canonical information, scholarly content, and site styling differently and deliberately. This makes it easier for you or others to share, reuse and reimagine your collection data in other contexts.
+Singing the Nation Into Being will develop in two phases using the
+minimal computing model.[^1] The first phase features a collection of
+video-recorded performances and mashups created by a wide range of
+individuals and groups demonstrating a variety of vocal and presentation
+stylings---from a cappella to choral performances to recitation and
+more---in spaces both public and private. These videos form what I call
+an "ephemeral archive," works created and uploaded often with a single
+intention, such as observation of a holiday or a meaningful date (Martin
+Luther King, Jr.'s birthday or Juneteenth), to mark a significant event
+(Barack Obama's election), or to demonstrate shared cultural practices
+(step shows and Black church services). Ephemera, generally understood
+as having no lasting significance or purpose, would seem a limited site
+for exploration both temporally and spatially, bound as they are to
+notions of value and relevance and permanence. This might, in turn, set
+limits on the kinds of discourses that surround such objects and the
+ways we engage with them, particularly given their proliferation,
+brought about in part through the process of "democratization" of the
+Internet and the development of ease-of-use tools, such as YouTube. But
+with this video collection, I argue for the salience of ephemera created
+by Black people, and the work they do as potential sites of memory and
+materiality. Engaging in a process of active reconstruction, what Toni
+Morrison terms rememory, I return to the spaces in which artists,
+groups, and everyday people locate their digital creations, in an
+attempt to (re)construct routes to other sites of memory that might
+allow us a different understanding of the resonance of "Lift Every Voice
+and Sing" as well as its potentialities.
 
-## Who is Wax for?
+A second phase of this project will examine video metadata---comments,
+likes, dislikes, up/down votes, number of visitors, uploader narratives,
+and other data that get appended to each digital object.
 
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
+### Navigating the Collection: Ephemera and Absence
 
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
+I use YouTube as the primary source for this project because of the ease
+of use and accessibility for both uploaders and myself (this "ease" will
+be part of my later analysis on this site vis-à-vis a minimal computing
+context). Yet, I remain keenly aware of the ways in which corporatized
+spaces such as Google, are not "neutral" or benign sites but also serve
+in the mediation and commodification of Black people and Black cultures
+(Noble 37). So context matters: where the videos are located, who
+accesses them, how that content is used (and by whom), who owns the
+content, and the ethics of doing this work of "collecting"---are also
+questions this project aims to address. The thinking and the working
+through are ongoing.
 
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
+This is by no means an exhaustive collection, but rather, a sampling.
+The seventy-two videos in this collection are organized into categories:
+Celebrity, Choir, Documentary, Group, Mashup, News, Solo, and Youth. Yet
+these categories are not discrete. Some of the videos span two or more
+categories (for example, Choir + Youth or Mashup + Solo + Celebrity).
+These intersections highlight the ways in which the videos elude a
+simple classification, troubling the notion of capture. This elusiveness
+further demonstrates the ephemeral nature of these works as well as the
+way that juxtaposition, vis-a-via a "collection," both reveals the
+"hyper ephemerality" of the videos (Everett 11) and forces us to rethink
+our ideas of (im)materiality and the (ir)relevance ascribed to these
+kinds of digital objects. What might Aretha Franklin's call-and-response
+in her performance juxtaposed with a mashup that features archival
+footage from the Civil Rights Movement help us to better understand
+about blackness---about identity, black creativity, community, and
+belonging? Further, how do we place and understand videos of "Lift Every
+Voice and Sing" that are not created by or feature Black people?
 
-**However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://www.columbia.edu/content/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
+Moving through the collection, you will also notice that some videos are
+missing. In the process of collecting these works over several years,
+objects have moved or disappeared. Creators might have set their videos
+to "Private," had content removed for violation of use terms, decided
+that they no longer wanted presence in this space, or any number of
+reasons. The choice to include such works is deliberate on my part. I
+want to consider what these "lost" videos offer us in their absence.
+These missing objects haunt the archive, help constitute it, and
+complicate simple readings of digital ephemera created by Black people.
 
-**Wax is also phenomenal for professionals who play a facilitating role**, such as Digital Scholarship Librarians or Coordinators. With some practice, Wax substantially reduces the time to production and post-production maintenance costs for you and your team. In the most common scenario, students, faculty, colleagues or any other collaborators just have to provide you with a properly formatted spreadsheet and the text for the exhibits. The extras are up to you.
+Singing the Nation Into Being thus invites us to think about how we
+derive meaning from these performances and creative reworkings of "Lift
+Every Voice and Sing." With this project, I also attempt to make a case
+not only for the importance of ephemeral objects, but also for the
+creators of such digital materials, many of whom take time and care to
+construct and deploy compelling visual and sonic narratives about Black
+life and Black creativity.
 
 
-## So what does the Wax workflow *look like?*
+### Works Cited
 
-Below is a diagram to give you a zoomed-out view. In summary, you create a file of metadata records for your collection (in CSV, YAML, or JSON format), organize your collection image files, and put both in the Jekyll site folder. After updating your configuration, you run a few command line tasks to prepare the data and metadata for use by the Jekyll site. Jekyll then uses special layouts and Wax components to build the exhibit and spits them out as static pages ready to publish.
+Everett, Anna. *Digital Diaspora: A Race for Cyberspace*. State
+University of New York Press, 2009.
 
-From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
+Gil, Alex. "The User, the Learner and the Machines We Make." Minimal
+Computing: A Working Group of GO ::DH, 2015.
+http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/
 
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
+Morrison, Toni. "The Site of Memory" in *Inventing the Truth: The Art
+and Craft of Memoir*, William Zinsser, Editor. Houghton Mifflin, 1995,
+pp. 83-102.
+
+*Beloved*, Alfred A. Knopf Inc., 1987.
+
+Noble, Safiya Umoja. *Algorithms of Oppression: How Search Engines
+Reinforce Racism*. New York University Press, 2018.
+
+Parks, Suzan-Lori. *Death of the Last Black Man in the Whole Entire
+World. The America Play and Other Works*. Theatre Communications Group,
+1995.
+
+### Works Consulted
+
+Alexander, Elizabeth. "Memory, Community, Voice." *Callaloo* 17.2 (1994)
+408-421.
+
+Baraka, Imamu Amiri. *Black Music: Essays*. Akashic Books, 2010.
+
+------*Tales of the Out and the Gone*. Akashic Books, 2007.
+
+Campt, Tina. *Listening to Images*. Duke University Press, 2016.
+
+Gordon, Avery. *Ghostly Matters: Haunting and the Sociological
+Imagination*. University of Minnesota Press, 2011.
+
+Johnson, James Weldon. *Along This Way: Autobiography*. Da Capo Press,
+1973.
+
+Morrissette, Noelle. *James Weldon Johnson's Modern Soundscapes*.
+University of Iowa Press, 2013.
+
+Parham, Marisa. *Haunting and Displacement in African American
+Literature and Culture*. Routledge, 2011.
+
+Perry, Imani. *May We Forever Stand: A History of the Black National
+Anthem*. University of North Carolina Press, 2018.
+
+Redmond, Shana L. *Anthem: Social Movements and the Sound of Solidarity
+in the African Diaspora*. New York University Press, 2014.
+
+Seniors, Paula Marie. *Beyond Lift Every Voice and Sing: The Culture of
+Uplift, Identity, and Politics in Black Musical Theater*. Ohio State
+University Press, 2017.
+
+Sharpe, Christina. *In the Wake: On Blackness and Being*. Duke
+University Press, 2016.
+
+### About Sonya
+
+Sonya Donaldson is Associate Professor of English at New Jersey City
+University. In addition to her digital humanities project, Donaldson is
+also completing a book manuscript, *Irreconcilable Differences?: Memory,
+History, and the Echoes of Diaspora*, which examines autobiographical
+narratives, music, and performances by Black writers and artists. A
+Mellon-Mays Fellow, Donaldson is currently a Virginia Humanities Fellow
+and a Visiting Scholar at the University of Virginia's Scholars' Lab.
+Donaldson is also a former journalist who served as the Technology
+Editor at *Black Enterprise* magazine, and completed stints at *Inc*.
+magazine, Ziff-Davis publications, and the *L.A. Daily News*. Her
+scholarly work has appeared in *Callaloo*, *The Feminist Wire*, *African
+and Black Diaspora: An International Journal*, and *Women, Gender, and
+Families of Color*.
+
+## Acknowledgments
+
+Many thanks to the following for their encouragement and support both
+material and ephemeral:
+
+**Alex Gil**, Digital Scholarship Coordinator for the Humanities and History
+Division, Columbia University Library
+
+**Alicia Ellis**, Assistant Professor of German, Colby College
+
+**Ellen Garvey**, Professor (retired), New Jersey City University
+
+**Kelly Josephs**, Professor of English, York College, CUNY
+
+**Susana Loza**, Associate Professor of Critical Race, Gender, and Media
+Studies, Hampshire College
+
+**David Munson**, Artist
+
+**Deborah Sanders**, Professor of African and African American Studies, New
+Jersey City University
+
+**Tzarina Prater**, Associate Professor of English and Media Studies,
+Bentley University
+
+**Roopika Risam**, Associate Professor of Secondary and Higher Education and
+English, Salem State College
+
+A fellowship from Virginia Humanities and a Visiting Scholar position at
+the University of Virginia's Scholars' Lab provided much needed time,
+space, intellectual engagement, and resources to develop this project.
+
+---
+
+[^1]: This site is designed using a minimal computing model. As Alex Gil
+    notes, an approach to minimal computing centers around the question
+    of need, what is necessary and enough to do the work: "If we do so,
+    our orientations vis-a-vis ease of use, ease of creation, increased
+    access and reductions in computing---and by extension,
+    electricity---become clearer" ("The User, the Learner and the
+    Machines We Make" 2015). I am indebted to Alex for helping me to see
+    this project to fruition.
