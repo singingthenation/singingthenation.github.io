@@ -17,10 +17,10 @@ Entire World</em></p>
 Singing the Nation Into Being is an experimental digital humanities
 project that aims to stir discussion about the meaning and resonance of
 James Weldon Johnson and J. Rosamond Johnson's "Lift Every Voice and
-Sing" (1900). Also known as the "Negro National Anthem," "The Negro
-National Hymn," and "The Black National Anthem," "Lift Every Voice and
+Sing" (1900). Also known as the "The Negro
+National Hymn" and "The Black National Anthem," "Lift Every Voice and
 Sing" was initially conceived as a poem, meant to commemorate Abraham
-Lincoln's birthday. Johnson and his brother J. Rosamond later
+Lincoln's birthday in 1900. Johnson and his brother J. Rosamond later
 transformed the text to song to honor Booker T. Washington's visit to
 The Stanton School in Jacksonville, Fla., where Johnson was the
 principal. Since Johnson's initial conception, a performance by a chorus
@@ -74,7 +74,7 @@ questions this project aims to address. The thinking and the working
 through are ongoing.
 
 This is by no means an exhaustive collection, but rather, a sampling.
-The seventy-two videos in this collection are organized into categories:
+The seventy-five videos in this collection are organized into categories:
 Celebrity, Choir, Documentary, Group, Mashup, News, Solo, and Youth. Yet
 these categories are not discrete. Some of the videos span two or more
 categories (for example, Choir + Youth or Mashup + Solo + Celebrity).
