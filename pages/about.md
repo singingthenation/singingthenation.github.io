@@ -18,7 +18,7 @@ Singing the Nation Into Being is an experimental digital humanities
 project that aims to stir discussion about the meaning and resonance of
 James Weldon Johnson and J. Rosamond Johnson's "Lift Every Voice and
 Sing" (1900). Also known as the "The Negro
-National Hymn" and "The Black National Anthem," "Lift Every Voice and
+National Anthem" and "The Black National Anthem," "Lift Every Voice and
 Sing" was initially conceived as a poem, meant to commemorate Abraham
 Lincoln's birthday in 1900. Johnson and his brother J. Rosamond later
 transformed the text to song to honor Booker T. Washington's visit to
