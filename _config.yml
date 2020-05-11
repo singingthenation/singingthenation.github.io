@@ -102,6 +102,10 @@ search:
 menu:
   - label: 'About'
     link: '/about/'
+  - label: 'Posts'
+    sub:
+      - label: 'Singing the Nation'
+        link: '/posts/singing-the-nation/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
