@@ -21,7 +21,7 @@
 title:            'Lift Every Voice and Sing'
 description:      'A gallery of performances of the anthem'
 url:              ''
-baseurl:          '/lift'
+baseurl:          ''
 copyright:        'CC-BY 4.0 International'
 logo:             '/assets/logo.png'
 
