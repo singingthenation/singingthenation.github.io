@@ -4,8 +4,60 @@ title: Credits
 permalink: '/credits/'
 ---
 
-Wax is a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
+### Produced by
 
-We welcome and encourage contributors and maintainers. Please get in touch, or [fork the project on GitHub](https://github.com/minicomp/wax). If you encounter any issue with the software, please [create an issue](https://github.com/minicomp/wax/issues) on our repository or post a comment on [Gitter](https://gitter.im/minicomp/wax/).
+**[Sonya Donaldson](https://twitter.com/sunnygrrrl)**<br>
+Associate Professor of English, New Jersey City University<br>
+*Lead Investigator*
 
-For more on working with Wax, visit our [documentation wiki](https://minicomp.github.io/wiki/wax/).
+**[Alex Gil](https://twitter.com/elotroalex)**<br>
+Digital Scholarship Librarian, Columbia University Libraries<br>
+*Digital Architecture*
+
+### Acknowledgments
+
+Many thanks to the following for their support, both
+material and ephemeral:
+
+**Robin Caldwell**<br>
+Journalist
+
+**Alicia Ellis**<br>
+Assistant Professor of German, Colby College
+
+**Ellen Garvey**<br>
+Professor (retired), New Jersey City University
+
+**Kelly Josephs**<br>
+Professor of English, York College, CUNY
+
+**Susana Loza**<br>
+Associate Professor of Critical Race, Gender, and Media
+Studies, Hampshire College
+
+**David Munson**<br>
+Artist
+
+**Deborah Sanders**<br>
+Professor of African and African American Studies, New
+Jersey City University
+
+**Tzarina Prater**<br>
+Associate Professor of English and Media Studies,
+Bentley University
+
+**Roopika Risam**<br>
+Associate Professor of Secondary and Higher Education and
+English, Salem State College
+
+
+
+### Support
+
+A fellowship from Virginia Humanities and a Visiting Scholar position at
+the University of Virginia's Scholars' Lab provided much needed time,
+space, intellectual engagement, and resources to develop this project.
+
+### Wax
+
+Wax is a minimal computing project led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp and Alex Gil at Columbia University Libraries. For more on working with Wax, visit the [documentation wiki](https://minicomp.github.io/wiki/wax/).

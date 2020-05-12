@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Lift Every Voice and Sing'
+title:            'Singing the Nation'
 description:      'A gallery of performances of the anthem'
 url:              ''
-baseurl:          '/lift'
+baseurl:          ''
 copyright:        'CC-BY 4.0 International'
 logo:             '/assets/logo.png'
 
@@ -119,11 +119,11 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/singingthenation/singingthenation.github.io'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'mailto:sadonalds@gmail.com'
   logos:
     - img: '/img/logo.png'
 

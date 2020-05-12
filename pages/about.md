@@ -184,37 +184,6 @@ scholarly work has appeared in *Callaloo*, *The Feminist Wire*, *African
 and Black Diaspora: An International Journal*, and *Women, Gender, and
 Families of Color*.
 
-## Acknowledgments
-
-Many thanks to the following for their encouragement and support both
-material and ephemeral:
-
-**Alex Gil**, Digital Scholarship Librarian, Columbia University Library
-
-**Alicia Ellis**, Assistant Professor of German, Colby College
-
-**Ellen Garvey**, Professor (retired), New Jersey City University
-
-**Kelly Josephs**, Professor of English, York College, CUNY
-
-**Susana Loza**, Associate Professor of Critical Race, Gender, and Media
-Studies, Hampshire College
-
-**David Munson**, Artist
-
-**Deborah Sanders**, Professor of African and African American Studies, New
-Jersey City University
-
-**Tzarina Prater**, Associate Professor of English and Media Studies,
-Bentley University
-
-**Roopika Risam**, Associate Professor of Secondary and Higher Education and
-English, Salem State College
-
-A fellowship from Virginia Humanities and a Visiting Scholar position at
-the University of Virginia's Scholars' Lab provided much needed time,
-space, intellectual engagement, and resources to develop this project.
-
 ---
 
 [^1]: This site is designed using a minimal computing model. As Alex Gil
