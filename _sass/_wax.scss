@@ -255,7 +255,6 @@ content section
   max-width: 90%;
   width: $max-width;
   overflow: flex-wrap;
-  font-size: .6rem;
 }
 
 .full-width {
@@ -292,6 +291,7 @@ content section
     width: 100vw;
     background-color: $neutral;
     padding: $less-margin 0;
+    font-size: .6rem;
     a {
       color: $accent-light;
       font-weight: 700;

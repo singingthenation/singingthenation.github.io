@@ -23,15 +23,15 @@ function displayResult(item, fields, url) {
   var label = item.label || 'Untitled';
   var link  = item.permalink;
   var thumb = getThumbnail(item, url);
-  var meta  = []
+  var meta  = item.narrative.slice(0, 140) + " ..."
 
-  for (i in fields) {
-    fieldLabel = fields[i];
-    if (fieldLabel in item ) {
-      meta.push(`<b>${fieldLabel}:</b> ${excerptedString(item[fieldLabel])}`);
-    }
-  }
-  return `<div class="result"><a href="${url}${link}">${thumb}<p><span class="title">${item.label}</span><br><span class="meta">${meta.join(' | ')}</span></p></a></div>`;
+  // for (i in fields) {
+  //   fieldLabel = fields[i];
+  //   if (fieldLabel in item ) {
+  //     meta.push(`${excerptedString(item[fieldLabel])}`);
+  //   }
+  // }
+  return `<div class="result"><a href="${url}${link}">${thumb}<p><span class="title">${item.label}</span><br><span class="meta">${meta}</span></p></a></div>`;
 }
 
 function startSearchUI(fields, indexFile, url) {
