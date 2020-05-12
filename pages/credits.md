@@ -8,11 +8,11 @@ permalink: '/credits/'
 
 **Sonya Donaldson**<br>
 Associate Professor of English, New Jersey City University<br>
-Lead Investigator
+*Lead Investigator*
 
 **Alex Gil**<br>
-Digital Scholarship Librarian, Columbia University Library<br>
-Web Architect
+Digital Scholarship Librarian, Columbia University Libraries<br>
+*Digital Architecture*
 
 ### Acknowledgments
 
