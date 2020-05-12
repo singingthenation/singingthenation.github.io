@@ -6,11 +6,11 @@ permalink: '/credits/'
 
 ### Produced by
 
-**Sonya Donaldson**<br>
+**[Sonya Donaldson](https://twitter.com/sunnygrrrl)**<br>
 Associate Professor of English, New Jersey City University<br>
 *Lead Investigator*
 
-**Alex Gil**<br>
+**[Alex Gil](https://twitter.com/elotroalex)**<br>
 Digital Scholarship Librarian, Columbia University Libraries<br>
 *Digital Architecture*
 
