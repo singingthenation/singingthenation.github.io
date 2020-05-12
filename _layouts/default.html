@@ -7,8 +7,29 @@
     {% include header.html %}
 
     {% if page.banner %}
+
+    {%- capture image -%}
+
+    {{ page.banner.image }}
+
+    {%- endcapture -%}
+
+    {%- capture style -%}
+    background-image: url('{{ image | absolute_url }}');
+    background-position: 0% {{ page.banner.y | default: '15%' }};
+    {%- endcapture -%}
       {% assign b = page.banner %}
-      {% include parallax_image.html collection=b.collection pid=b.pid y=b.y height=b.height %}
+      <div class='wax-parallax full-width {% if page.banner %}top-banner{% else %}inline-parallax{% endif %}'>
+      <div class='parallax-image' style="{{ style | strip }}"></div>
+
+      {% if b.label %}
+      <div class='parallax-caption'>
+      <div class='wax-inline-container'>
+      {{ b.label }}
+    </div>
+  </div>
+  {% endif %}
+</div>
     {% endif %}
 
     <div id='wax-main'>
