@@ -14,7 +14,7 @@ Entire World</em></p>
 <br>
 
 
-Singing the Nation Into Being is an experimental digital humanities
+*Singing the Nation Into Being* is a Black digital humanities
 project that aims to stir discussion about the meaning and resonance of
 James Weldon Johnson and J. Rosamond Johnson's "Lift Every Voice and
 Sing" (1900). Also known as the "The Negro
@@ -28,7 +28,7 @@ of 500 schoolchildren, until the most recent iterations---such as
 Beyoncé's performance at Coachella---the song has remained central, in
 many ways, to Black American life.
 
-Singing the Nation Into Being will develop in two phases using the
+*Singing the Nation Into Being* will develop in two phases using the
 minimal computing model.[^1] The first phase features a collection of
 video-recorded performances and mashups created by a wide range of
 individuals and groups demonstrating a variety of vocal and presentation
