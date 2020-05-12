@@ -6,36 +6,49 @@ permalink: '/credits/'
 
 ### Produced by
 
-**Sonya Donaldson**, Associate Professor of English, New Jersey City University<br>
+**Sonya Donaldson**<br>
+Associate Professor of English, New Jersey City University<br>
 Lead Investigator
 
-**Alex Gil**, Digital Scholarship Librarian, Columbia University Library<br>
+**Alex Gil**<br>
+Digital Scholarship Librarian, Columbia University Library<br>
 Web Architect
 
-## Acknowledgments
+### Acknowledgments
 
-Many thanks to the following for their encouragement and support both
+Many thanks to the following for their support, both
 material and ephemeral:
 
-**Alicia Ellis**, Assistant Professor of German, Colby College
+**Alicia Ellis**<br>
+Assistant Professor of German, Colby College
 
-**Ellen Garvey**, Professor (retired), New Jersey City University
+**Ellen Garvey**<br>
+Professor (retired), New Jersey City University
 
-**Kelly Josephs**, Professor of English, York College, CUNY
+**Kelly Josephs**<br>
+Professor of English, York College, CUNY
 
-**Susana Loza**, Associate Professor of Critical Race, Gender, and Media
+**Susana Loza**<br>
+Associate Professor of Critical Race, Gender, and Media
 Studies, Hampshire College
 
-**David Munson**, Artist
+**David Munson**<br>
+Artist
 
-**Deborah Sanders**, Professor of African and African American Studies, New
+**Deborah Sanders**<br>
+Professor of African and African American Studies, New
 Jersey City University
 
-**Tzarina Prater**, Associate Professor of English and Media Studies,
+**Tzarina Prater**<br>
+Associate Professor of English and Media Studies,
 Bentley University
 
-**Roopika Risam**, Associate Professor of Secondary and Higher Education and
+**Roopika Risam**<br>
+Associate Professor of Secondary and Higher Education and
 English, Salem State College
+
+**Robin Caldwell**<br>
+Journalist
 
 ### Support
 
