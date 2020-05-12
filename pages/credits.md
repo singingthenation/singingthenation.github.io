@@ -19,6 +19,9 @@ Digital Scholarship Librarian, Columbia University Libraries<br>
 Many thanks to the following for their support, both
 material and ephemeral:
 
+**Robin Caldwell**<br>
+Journalist
+
 **Alicia Ellis**<br>
 Assistant Professor of German, Colby College
 
@@ -47,8 +50,7 @@ Bentley University
 Associate Professor of Secondary and Higher Education and
 English, Salem State College
 
-**Robin Caldwell**<br>
-Journalist
+
 
 ### Support
 
@@ -58,5 +60,4 @@ space, intellectual engagement, and resources to develop this project.
 
 ### Wax
 
-Wax is a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries.
-For more on working with Wax, visit the [documentation wiki](https://minicomp.github.io/wiki/wax/).
+Wax is a minimal computing project led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp and Alex Gil at Columbia University Libraries. For more on working with Wax, visit the [documentation wiki](https://minicomp.github.io/wiki/wax/).
