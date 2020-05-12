@@ -5,7 +5,7 @@ title: Welcome
 banner:
     image: /img/banner.jpg
     y: 30%
-    label: Denyce Graves and Voices of Tomorrow
+    label: "Screenshot from video of Denyce Graves performing with Voices of Tomorrow at the 2016 inauguration of the National Museum of African American History and Culture."
 ---
 
 
