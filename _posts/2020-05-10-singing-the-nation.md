@@ -51,7 +51,7 @@ What I have outlined here (I hope) is what I imagine DH to be (can become?/is be
 
 ### Notes
 
-[^1]: Anne E. Bromley, “[Baraka Recounts, Instructs, Riffs About King and Black History](https://news.virginia.edu/content/baraka-recounts-instructs-riffs-about-king-and-black-history).” UVa Today. January 3, 2011.
+[^1]: Anne E. Bromley, “[Baraka Recounts, Instructs, Riffs About King and Black History](https://news.virginia.edu/content/baraka-recounts-instructs-riffs-about-king-and-black-history).” UVa Today. January 31, 2011.
 
 [^2]:Amiri Baraka in *‘Lift Every Voice and Sing’: A Celebration of the Negro National Anthem: 100 Years, 100 Voices.* Julian Bond and Sondra Kathryn Wilson, Editors. Random House, 2000.
 
