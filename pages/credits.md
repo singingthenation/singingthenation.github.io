@@ -7,7 +7,7 @@ permalink: '/credits/'
 ### Produced by
 
 **[Sonya Donaldson](https://twitter.com/sunnygrrrl)**<br>
-Associate Professor of English, New Jersey City University<br>
+Assistant Professor of African American Studies, Colby College<br>
 *Lead Investigator*
 
 **[Alex Gil](https://twitter.com/elotroalex)**<br>
@@ -26,7 +26,7 @@ Journalist
 Assistant Professor of German, Colby College
 
 **Ellen Garvey**<br>
-Professor (retired), New Jersey City University
+Professor (Emerita), New Jersey City University
 
 **Kelly Josephs**<br>
 Professor of English, York College, CUNY
